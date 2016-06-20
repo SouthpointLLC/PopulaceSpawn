@@ -1,0 +1,13 @@
+name: PopulaceSpawn
+author: Turqmelon
+version: 1.0
+main: com.turqmelon.PopulaceSpawn.PopulaceSpawn
+depend: [Populace]
+description: Spawn point management for Populace
+commands:
+  spawn:
+    usage: /spawn [spawn]
+    description: Warp to spawn
+  setspawn:
+    usage: /setspawn <Spawn>
+    description: Set a spawn
